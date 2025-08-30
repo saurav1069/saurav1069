@@ -24,7 +24,7 @@ A passionate AI & Cloud Computing Enthusiast
 <a href="https://isocpp.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.ibm.com/cloud" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" alt="ibm cloud" width="40" height="40"/> </a>
+<a href="https://www.ibm.com/cloud" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="ibm cloud" width="60" height="40"/> </a>
 <a href="https://www.salesforce.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
